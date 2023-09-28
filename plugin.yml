@@ -1,0 +1,13 @@
+name: VeinMCTestPlugin
+author: a8kj
+description: Simple plugin created to veinmc developer apply test 
+main: me.a8kj.test.TestMain
+version: 0.1
+commands:
+  testreload:
+    description: "to reload your configuration file !"
+    usage: /testreload
+    aliases:
+      - vmtrl
+      - veinmctrl
+      - vmrl
